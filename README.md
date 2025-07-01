@@ -15,27 +15,7 @@ A complete end-to-end machine learning pipeline to detect fraudulent credit card
 
 ---
 
-## 📂 Project Structure
-credit-card-fraud-detection/
-├── app.py # Streamlit app
-├── data/
-│ ├── creditcard.csv # Original dataset
-│ └── processed.csv # Scaled features
-├── notebooks/
-│ ├── 1_EDA_Feature_Engineering.ipynb
-│ ├── 2_Model_Building_LogisticRegression.ipynb
-│ └── 3_Ensemble_ImbalanceHandling.ipynb
-├── src/
-│ ├── preprocessing.py # Feature scaling logic
-│ ├── model.py # Logistic & ensemble model functions
-│ └── utils.py # Evaluation utilities
-├── model_lr.pkl # Trained logistic regression model
-├── requirements.txt
-├── .gitignore
-└── README.md # This file
 
-
----
 
 ## ⚙️ How to Run Locally
 
