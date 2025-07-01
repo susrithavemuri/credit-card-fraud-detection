@@ -41,27 +41,29 @@ streamlit run app.py
 
 
 ## 📊 Model Details
-Algorithm: Logistic Regression
-Techniques Used: StandardScaler, Under-Sampling, BaggingClassifier
-Evaluation: ROC AUC Score, Classification Report
-Handling Imbalance: RandomUnderSampler from imblearn
-Live Prediction: via Streamlit with file uploader
+- Algorithm: Logistic Regression
+- Techniques Used: StandardScaler, Under-Sampling, BaggingClassifier
+- Evaluation: ROC AUC Score, Classification Report
+- Handling Imbalance: RandomUnderSampler from imblearn
+- Live Prediction: via Streamlit with file uploader
+
 
 ## 🔍 Dataset Info
-Source: Kaggle Credit Card Fraud Dataset
-Details: 284,807 transactions made by European cardholders in 2013. Contains only 492 frauds (0.17%).
+- Source: Kaggle Credit Card Fraud Dataset
+- Details: 284,807 transactions made by European cardholders in 2013. Contains only 492 frauds (0.17%).
 
 
 
 
-👩‍💻 Author
-Sai Susritha Vemuri
-GitHub: @susrithavemuri
-LinkedIn: linkedin.com/in/susritha-sai-vemuri-b2bab4269
+
+## 👩‍💻 Author
+- Sai Susritha Vemuri
+- GitHub: @susrithavemuri
+- LinkedIn: linkedin.com/in/susritha-sai-vemuri-b2bab4269
 
 
 
-🛡️ License
+## 🛡️ License
 This project is for educational purposes. Dataset belongs to its original creators.
 
 
